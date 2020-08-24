@@ -1,0 +1,31 @@
+{
+  "name": "@careteen/vite",
+  "version": "0.0.1",
+  "description": "💪 Learn and copy vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "careteen-vite": "./bin/www.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careteenL/vite.git"
+  },
+  "keywords": [
+    "vite"
+  ],
+  "author": "careteenL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/careteenL/vite/issues"
+  },
+  "homepage": "https://github.com/careteenL/vite#readme",
+  "dependencies": {
+    "es-module-lexer": "^0.3.24",
+    "koa": "^2.13.0",
+    "koa-static": "^5.0.0",
+    "magic-string": "^0.25.7"
+  }
+}
