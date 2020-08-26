@@ -61,8 +61,14 @@ npm i koa-static
 
 #### 解析import重写后路径并找到对应文件内容
 
+`vue-next`组成部分`runtime-dom/runtion-core/reactivity/shared`
+
 #### 解析.vue文件
 
 #### 为html注入代码解决变量问题
+
+#### 处理css
+
+#### 处理image
 
 #### 实现热更新
